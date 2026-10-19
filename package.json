@@ -29,5 +29,9 @@
     "x402",
     "solar",
     "public"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/public-energy-services-section.git"
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-liheap-south-dakota-fy2026-benefit-range",
+  "kind": "observation",
+  "recorded-on": "2026-10-30",
+  "office": "chief-of-staff",
+  "duty": "absorbing-a-session",
+  "skill": "absorb-a-session",
+  "standing": "method-applied-without-incumbency",
+  "sources": [
+    {
+      "locator": "https://www.acf.hhs.gov/ocs/low-income-home-energy-assistance-program-liheap",
+      "revision": "2026-09-05",
+      "role": "observed"
+    },
+    {
+      "locator": "2026-09-19-note-on-household-energy-resource-facts (internal-resource-services-section, 561-group/internal-services-section@602688d9)",
+      "role": "context"
+    }
+  ],
+  "subject": "South Dakota FY2026 LIHEAP benefit range",
+  "finding": {
+    "claim": "South Dakota FY2026 LIHEAP benefits ranged from $668 to $3,437. The tribal benefit amount is unknown: no source read on 2026-09-05 gave one.",
+    "truth": "unknown"
+  },
+  "method": "Reading of the cited sources on 2026-09-05, carried into this record on 2026-10-30 from the September 19 note.",
+  "observed-at": "2026-09-05T00:00:00Z",
+  "status": "open"
+}

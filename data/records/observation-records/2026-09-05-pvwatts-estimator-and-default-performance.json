@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-pvwatts-estimator-and-default-performance",
+  "kind": "observation",
+  "recorded-on": "2026-10-30",
+  "office": "chief-of-staff",
+  "duty": "absorbing-a-session",
+  "skill": "absorb-a-session",
+  "standing": "method-applied-without-incumbency",
+  "sources": [
+    {
+      "locator": "https://pvwatts.nrel.gov/",
+      "revision": "2026-09-05",
+      "role": "observed"
+    },
+    {
+      "locator": "2026-09-19-note-on-household-energy-resource-facts (internal-resource-services-section, 561-group/internal-services-section@602688d9)",
+      "role": "context"
+    }
+  ],
+  "subject": "PV yield estimation",
+  "finding": {
+    "claim": "NREL's PVWatts Calculator is the named estimator for PV yield. The generated source used 0.80 as a PVWatts-derived default performance assumption, an assumption about a generic system. A yield projection states its observation interval, system size, performance assumption, source dataset, location and irradiance origin (satellite reanalysis or ground station).",
+    "truth": "held"
+  },
+  "method": "Reading of the cited sources on 2026-09-05, carried into this record on 2026-10-30 from the September 19 note.",
+  "observed-at": "2026-09-05T00:00:00Z",
+  "status": "open"
+}

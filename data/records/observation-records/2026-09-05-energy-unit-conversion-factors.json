@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-energy-unit-conversion-factors",
+  "kind": "observation",
+  "recorded-on": "2026-10-30",
+  "office": "chief-of-staff",
+  "duty": "absorbing-a-session",
+  "skill": "absorb-a-session",
+  "standing": "method-applied-without-incumbency",
+  "sources": [
+    {
+      "locator": "https://www.eia.gov/totalenergy/data/monthly/pdf/sec12.pdf",
+      "revision": "2026-09-05",
+      "role": "observed"
+    },
+    {
+      "locator": "2026-09-19-note-on-household-energy-resource-facts (internal-resource-services-section, 561-group/internal-services-section@602688d9)",
+      "role": "context"
+    }
+  ],
+  "subject": "Energy unit conversions used in the household-energy study",
+  "finding": {
+    "claim": "1 kWh is 3.6 MJ. EIA gives propane 91,452 Btu per gallon; at 1 Btu = 1,055.06 J that is about 96.49 MJ per gallon. KCAL converts as exactly 4,184 J. Diesel, cordwood and household heating needs each take their own declared factor and quantity. A joule figure names the receipts and conversion factors it includes.",
+    "truth": "held"
+  },
+  "method": "Reading of the cited sources on 2026-09-05, carried into this record on 2026-10-30 from the September 19 note.",
+  "observed-at": "2026-09-05T00:00:00Z",
+  "status": "open"
+}

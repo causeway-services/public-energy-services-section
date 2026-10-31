@@ -1,0 +1,23 @@
+{
+  "id": "2026-09-05-household-energy-source-inventory-empty",
+  "kind": "observation",
+  "recorded-on": "2026-10-30",
+  "office": "chief-of-staff",
+  "duty": "absorbing-a-session",
+  "skill": "absorb-a-session",
+  "standing": "method-applied-without-incumbency",
+  "sources": [
+    {
+      "locator": "2026-09-19-note-on-household-energy-resource-facts (internal-resource-services-section, 561-group/internal-services-section@602688d9)",
+      "role": "context"
+    }
+  ],
+  "subject": "Household-energy data held by the Group on 2026-09-05",
+  "finding": {
+    "claim": "The September 5 material recorded no household tariff, statement, meter reading, solar coordinate, generation history, fuel inventory, assistance eligibility or ownership interest.",
+    "truth": "held"
+  },
+  "method": "Reading of the cited sources on 2026-09-05, carried into this record on 2026-10-30 from the September 19 note.",
+  "observed-at": "2026-09-05T00:00:00Z",
+  "status": "open"
+}

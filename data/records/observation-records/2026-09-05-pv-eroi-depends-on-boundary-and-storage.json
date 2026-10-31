@@ -1,0 +1,28 @@
+{
+  "id": "2026-09-05-pv-eroi-depends-on-boundary-and-storage",
+  "kind": "observation",
+  "recorded-on": "2026-10-30",
+  "office": "chief-of-staff",
+  "duty": "absorbing-a-session",
+  "skill": "absorb-a-session",
+  "standing": "method-applied-without-incumbency",
+  "sources": [
+    {
+      "locator": "https://doi.org/10.1002/ente.201901146",
+      "revision": "2026-09-05",
+      "role": "observed"
+    },
+    {
+      "locator": "2026-09-19-note-on-household-energy-resource-facts (internal-resource-services-section, 561-group/internal-services-section@602688d9)",
+      "role": "context"
+    }
+  ],
+  "subject": "PV energy return and storage cost in the literature",
+  "finding": {
+    "claim": "PV EROI results vary with the system boundary: module-and-inverter studies omit costs that broader point-of-use studies include, so the field reports no single universal PV EROI. Raugei, Leccisi and Fthenakis (2020) report that a 100 MW PV system with 60 MW lithium-manganese-oxide storage had a 7-30% longer energy-payback time than PV alone, depending on storage duration.",
+    "truth": "held"
+  },
+  "method": "Reading of the cited sources on 2026-09-05, carried into this record on 2026-10-30 from the September 19 note.",
+  "observed-at": "2026-09-05T00:00:00Z",
+  "status": "open"
+}
